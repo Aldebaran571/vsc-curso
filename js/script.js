@@ -8,7 +8,7 @@ console.log(res)
         sessionStorage
             kidfu 
                 id debugger
-                    if f}
+                    if f
 
 
 </div>
